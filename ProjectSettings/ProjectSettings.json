@@ -1,0 +1,9 @@
+{
+  "m_ObjectHideFlags": 0,
+  "serializedVersion": 2,
+  "m_UnityVersion": "6.0.0",
+  "m_CompanyName": "Atmospheric Narrative Framework",
+  "m_ProductName": "Atmospheric Narrative Framework",
+  "m_DefaultScene": "Assets/Scenes/Bootstrap.unity",
+  "m_TargetPlatform": "Standalone"
+}
